@@ -68,7 +68,7 @@ const EditUser = () => {
             <input
               className="form-control form-control-lg"
               type="text"
-              placeholder=" enter Company Id"
+              placeholder=" Enter Company Id"
               defaultValue={cid}
             ></input>
           </div>
