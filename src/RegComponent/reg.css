@@ -1,0 +1,21 @@
+.regInput {
+  width: 20%;
+  height: 50px;
+  border-radius: 15px;
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+
+.btnreg {
+  background-color: blue;
+  display: block;
+  margin-top: 20px;
+  margin-left: 750px;
+}
+
+.reg {
+  margin-top: 30px;
+  background-color: bisque;
+}
